@@ -64,7 +64,7 @@ export default function SystemNav() {
                     <LayoutGrid size={18} className="text-white/60 group-hover:text-blue-400 transition-colors" />
                 </div>
                 {/* Hide text on mobile */}
-                <span className="hidden md:block text-sm font-mono font-bold text-white/80 tracking-widest group-hover:text-white transition-colors">DASHBOARD_OS</span>
+                <span className="hidden md:block text-sm font-mono font-bold text-white/80 tracking-widest group-hover:text-white transition-colors">Core_ME</span>
             </div>
 
             {/* Right: Controls */}

@@ -232,7 +232,7 @@ export default function Sidebar() {
                             className="ml-4 font-mono font-bold text-xl text-white tracking-widest"
                             animate={{ opacity: isHovered ? 1 : 0 }}
                         >
-                            NEXUS_OS
+                            App_Drawer
                         </motion.div>
                     </div>
 
